@@ -1,0 +1,1 @@
+# GCP-Cloud-Cost-Optimization-Identifying-Stale-Resources
